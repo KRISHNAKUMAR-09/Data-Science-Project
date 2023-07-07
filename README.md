@@ -13,9 +13,9 @@ This project aims to Build a personalized movie recommendations to users based o
   The Content and Popularity-Based Recommendation System utilizes two approaches to generate movie recommendations for users. It combines the content-based filtering technique, which recommends items based on their similarities to the items previously liked by the user, with the popularity-based filtering technique, which recommends items based on their overall popularity among all users.
 
 # _Dataset_
-  The project utilizes a two TMVD dataset for training and testing. The dataset consists of 17101 rows and 22 columns. It contain null values and duplicate entries.
+  The project utilizes a two TMBD dataset for training and testing. The dataset consists of 17101 rows and 22 columns. It contain null values and duplicate entries.
 
-Dataset link 1: https://drive.google.com/file/d/1k-ORE6niW2piDos3BTPxHjzk_PTlLO-U/view?usp=sharing
+Dataset link 1: https://drive.google.com/file/d/1k-ORE6niW2piDos3BTPxHjzk_PTlLO-U/view?usp=sharing                                                                                                      
 Dataset link 2: https://drive.google.com/file/d/1R-qumtNo_Z72nrr-o2JIDJTZtTXCprpc/view?usp=sharing
 
 # _Objectives_
