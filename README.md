@@ -28,9 +28,9 @@ The main objectives of this project are as follows:
    
 
 # _Recommendation System_
-  Build a Content-Based Recommendation System: Utilize the CountVectorizer technique to convert textual data into a numerical representation and apply cosine_similarity to measure the similarity between different movies based on their content. Develop a content-based recommendation system that suggests similar movies based on the preferences of a user.
+  **Build a Content-Based Recommendation System:** Utilize the CountVectorizer technique to convert textual data into a numerical representation and apply cosine_similarity to measure the similarity between different movies based on their content. Develop a content-based recommendation system that suggests similar movies based on the preferences of a user.
 
-   Build a Popularity-Based Recommendation System: Use the MinMaxScaler technique to normalize popularity metrics, such as the number of ratings or average ratings, for each movie. Develop a popularity-based recommendation system that suggests popular movies to users.
+   **Build a Popularity-Based Recommendation System:** Use the MinMaxScaler technique to normalize popularity metrics, such as the number of ratings or average ratings, for each movie. Develop a popularity-based recommendation system that suggests popular movies to users.
 
 # Results
   By achieving these objectives, I will create a recommendation system that combines content-based and popularity-based filtering techniques to provide personalized movie recommendations to users.
